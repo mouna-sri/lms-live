@@ -1,0 +1,15 @@
+{
+  "live": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lmslive-live-96e90-authRole",
+      "UnauthRoleArn": "arn:aws:iam::637423266623:role/amplify-lmslive-live-96e90-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::637423266623:role/amplify-lmslive-live-96e90-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-lmslive-live-96e90-deployment",
+      "UnauthRoleName": "amplify-lmslive-live-96e90-unauthRole",
+      "StackName": "amplify-lmslive-live-96e90",
+      "StackId": "arn:aws:cloudformation:ap-south-1:637423266623:stack/amplify-lmslive-live-96e90/18f96570-6e63-11ef-8698-0a7a8ecf9a3f",
+      "AmplifyAppId": "d3semg4hj3vbtm"
+    }
+  }
+}
